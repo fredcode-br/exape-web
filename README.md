@@ -1,14 +1,44 @@
-Server: 
-1 - cd server
-2 - npm i
-3 - npm run dev
 
-Web: 
-1 - cd web
-2 - npm i
-3 - npm run dev
 
-Usuários: 
+### Servidor
+
+1. Navegue até o diretório do servidor:
+    ```bash
+    cd server
+    ```
+
+2. Instale as dependências:
+    ```bash
+    npm install
+    ```
+
+3. Inicie o servidor em modo de desenvolvimento:
+    ```bash
+    npm run dev
+    ```
+
+###  Web
+
+1. Navegue até o diretório da aplicação web:
+    ```bash
+    cd web
+    ```
+
+2. Instale as dependências:
+    ```bash
+    npm install
+    ```
+
+3. Inicie a aplicação web em modo de desenvolvimento:
+    ```bash
+    npm run dev
+    ```
+
+## Usuários de Exemplo
+
+Aqui estão alguns usuários de exemplo para fins de teste:
+
+```json
 {
     "name": "Fred",
     "email": "fred@gmail.com",
