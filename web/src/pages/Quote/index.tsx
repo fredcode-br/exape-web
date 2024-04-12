@@ -105,7 +105,7 @@ function Quote() {
                         </div>
                         <div className="mb-4 text-start">
                             <Label htmlFor="value">
-                                Condição: 
+                                Valor: 
                             </Label>
                             <Input
                                 id="value"
